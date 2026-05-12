@@ -25,7 +25,7 @@ jobs:
       id: ecr-auth
       uses: portx-phim/shared-actions/ecr-auth@main
       with:
-        aws-account: '549231858676'
+        aws-account: ''
 
     - name: Checkout
       uses: actions/checkout@v4
