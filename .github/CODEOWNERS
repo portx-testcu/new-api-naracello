@@ -6,6 +6,6 @@
 # the repo. Unless a later match takes precedence,
 # @Administrators will be requested for
 # review when someone opens a pull request.
-* @portx-testcu/Administrators @portx-testcu/code-reviewer
+* @portx-testcu/Administrators @portx-testcu/code-reviewer @portx-testcu/superadmin
 
 /.github/workflow-templates/portx-*  @portx-iam
